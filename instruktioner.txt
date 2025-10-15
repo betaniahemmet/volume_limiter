@@ -1,0 +1,32 @@
+============================================================
+                 VolumeLimiter – Installationsguide
+============================================================
+
+SYFTE
+------
+VolumeLimiter begränsar datorns maximala ljudvolym till 50 %.
+Programmet körs tyst i bakgrunden efter inloggning.
+
+INSTALLATION
+-------------
+1. Dubbelklicka på:
+      Install VolumeLimiter.bat
+2. Följ instruktionerna.
+   Programmet kopieras till:
+      C:\Program Files\VolumeLimiter\
+3. En genväg läggs till i autostart.
+
+AVINSTALLATION
+---------------
+1. Dubbelklicka på:
+      Uninstall VolumeLimiter.bat
+2. Följ instruktionerna.
+   Programmet och dess genväg tas bort.
+
+MANUELL BORTTAGNING
+--------------------
+Ta bort:
+   C:\Program Files\VolumeLimiter\
+   %AppData%\Microsoft\Windows\Start Menu\Programs\Startup\VolumeLimiter.lnk
+============================================================
+
