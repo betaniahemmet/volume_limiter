@@ -19,6 +19,3 @@ InstallationFiles/build/
 InstallationFiles/dist/
 *.spec
 
-# Output packages
-finished_build/
-

@@ -1,0 +1,46 @@
+============================================================
+              INSTALLERA OCH TA BORT VOLUMLIMITER
+============================================================
+
+💡 Vad det gör
+--------------
+Begränsar datorns ljud till hälften (50 %).
+Körs automatiskt i bakgrunden när datorn startar.
+
+============================================================
+📥 INSTALLERA
+============================================================
+
+1. Dubbelklicka på filen:
+      Install_VolumeLimiter.bat
+
+2. Ett blått fönster öppnas. Tryck **ENTER** när du blir ombedd.
+
+3. Vänta tills det står:
+      ✅ Installation klar
+
+4. Starta om datorn.
+
+Om inget händer:
+– Högerklicka på filen  
+– Välj **Kör som administratör**
+
+============================================================
+🗑 TA BORT PROGRAMMET
+============================================================
+
+1. Dubbelklicka på:
+      Uninstall_VolumeLimiter.bat
+
+2. Tryck **ENTER** när du blir ombedd.
+
+Om inget händer:
+– Högerklicka  
+– Välj **Kör som administratör**
+
+============================================================
+KLART
+============================================================
+Du behöver inte göra mer.
+Programmet startar själv efter omstart.
+
